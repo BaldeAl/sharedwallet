@@ -11,6 +11,7 @@ Pour cloner et installer le projet :
 ```bash
 git clone https://github.com/BaldeAl/sharedwallet.git
 cd sharedwallet
+forge install
 ```
 
 ## Tests
